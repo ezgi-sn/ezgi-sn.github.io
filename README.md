@@ -1,4 +1,4 @@
-# HTML&JAVASCRIPT PROJECTS
+# Html&Javascript Projects
 This repo contains mini web projects which were built with HTML, Javascript and CSS.
 You can access the applications by clicking the Live Demo link.
 
