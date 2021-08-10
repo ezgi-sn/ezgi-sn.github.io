@@ -1,0 +1,37 @@
+body{
+    background-color:#CAC2EC   ;
+}
+.header-content{
+    font-family: 'Yomogi', cursive;
+}
+.search-icon{
+    border: 1px solid white;
+    background-color: white;
+    padding-left: 1px;
+    padding-top: 10px;
+
+}
+.form-control{
+    border-radius: 0;
+    border: 1px solid white;
+}
+
+.text-content{
+    font-family: 'Raleway', sans-serif;
+}
+::placeholder{
+    font-family: 'Raleway', sans-serif;
+}
+input[type=text]:focus{
+    border: none;
+    font-family: 'Raleway', sans-serif;
+}
+.container{
+    max-width: 500px;
+}
+li>i{
+    cursor: pointer;
+}
+.hide{
+    display: none !important;
+}
